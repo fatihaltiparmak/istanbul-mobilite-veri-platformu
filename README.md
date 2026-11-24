@@ -1,4 +1,4 @@
-# İstanbul Mobilite Veri Platformu
+ma# İstanbul Mobilite Veri Platformu
 
 Bu depo, Tech İstanbul Data Engineering Online Bootcamp'inin lab ortamını ve bitirme projesinin başlangıç iskeletini taşır. On oturum boyunca İstanbul'un toplu ulaşım ve trafik verisini işleyen uçtan uca bir veri platformunu bu depo üzerinde kurarsınız.
 
